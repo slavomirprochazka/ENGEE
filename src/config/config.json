@@ -1,0 +1,50 @@
+{
+  "site": {
+    "title": "PROSOFT Košice",
+    "base_url": "https://prosoftke.netlify.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo_engee_heart.svg",
+    "logo_format": "svg",
+    "logo_width": "107",
+    "logo_height": "31",
+    "logo_text": "ENGEE"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 100,
+    "blog_folder": "blog"
+  },
+
+  "call_to_action": {
+    "title": "Pomáháme chránit",
+    "description": "Pomáháme zefektnit činnosti zdravotnických zařízení a zjednodušit práci jejich zaměstnancům.",
+    "button": {
+      "label": "Původní prezentace",
+      "link": "http://www.promis.sk/"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "params": {
+    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "email": "prosoft@prosoftke.sk",
+    "location": "Letná 27, 040 01 Košice",
+    "phone": "+421 55 799 6451, +421 55 799 6452",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023 PROSOFT Košice, a.s."
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "pinwheel astro"
+  }
+}

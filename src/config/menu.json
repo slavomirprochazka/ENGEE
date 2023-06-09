@@ -1,0 +1,60 @@
+{
+  "main": [
+    {
+      "name": "Domů",
+      "url": "/"
+    },
+    {
+      "name": "O nás",
+      "url": "/about"
+    },
+    {
+      "name": "Řešení",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "ENGEE",
+          "url": "/engee"
+        },
+
+        {
+          "name": "PROMIS",
+          "url": "/promis"
+        }
+
+      ]
+    },
+    {
+      "name": "Reference",
+      "url": "/references"
+    },
+    {
+      "name": "How It Works",
+      "url": "/how-it-works"
+    },
+    {
+      "name": "Kontakt",
+      "url": "/contact"
+    }
+  ],
+
+  "footer": [
+    {
+      "name": "O nás",
+      "url": "/about"
+    },
+    {
+      "name": "Kontakt",
+      "url": "/contact"
+    },
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Changelog",
+      "url": "/changelog"
+    }
+  ]
+}

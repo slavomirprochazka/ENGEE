@@ -1,0 +1,45 @@
+---
+import Base from "@layouts/Base.astro";
+import Banner from "@layouts/components/Banner.astro";
+import KeyFeatures from "@layouts/components/KeyFeatures.astro";
+import Testimonial from "@layouts/components/Testimonial.astro";
+import Service from "@layouts/components/Service.astro";
+import Cta from "@layouts/partials/Cta.astro";
+import { getEntryBySlug } from "astro:content";
+
+const homepage = await getEntryBySlug("homepage", "index");
+const { banner, key_features, service, testimonial } = homepage.data;
+
+// map each content entry to a page
+import { getCollection } from 'astro:content'
+
+export async function getStaticPaths() {
+  const pages = await getCollection('blog')
+
+  const paths = pages.map(page => {
+    const [lang, ...slug] = page.slug.split('/');
+    return { params: { lang, slug: slug.join('/') || undefined }, props: page }
+  })
+
+  return paths;
+}
+
+const { lang, slug } = Astro.params;
+const page = Astro.props;
+//const formattedDate = page.data.date.toLocaleString(lang);
+
+//const { Content } = await page.render();
+---
+
+<Base>
+  <!-- banner -->
+  <Banner banner={banner} />
+  <!-- key features -->
+  <KeyFeatures key_features={key_features} />
+  <!-- service -->
+  <Service service={service} />
+  <!-- testimonial -->
+  <Testimonial testimonial={testimonial} />
+  <!-- call to action -->
+  <Cta />
+</Base>
