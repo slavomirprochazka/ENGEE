@@ -9,26 +9,6 @@ import { getEntryBySlug } from "astro:content";
 
 const homepage = await getEntryBySlug("homepage", "index");
 const { banner, key_features, service, testimonial } = homepage.data;
-
-// map each content entry to a page
-import { getCollection } from 'astro:content'
-
-export async function getStaticPaths() {
-  const pages = await getCollection('blog')
-
-  const paths = pages.map(page => {
-    const [lang, ...slug] = page.slug.split('/');
-    return { params: { lang, slug: slug.join('/') || undefined }, props: page }
-  })
-
-  return paths;
-}
-
-const { lang, slug } = Astro.params;
-const page = Astro.props;
-//const formattedDate = page.data.date.toLocaleString(lang);
-
-const { Content } = await page.render();
 ---
 
 <Base>
