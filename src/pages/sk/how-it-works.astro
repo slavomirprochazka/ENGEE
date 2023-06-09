@@ -9,7 +9,7 @@ import { AiFillCheckCircle } from "react-icons/ai/index.js";
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
-const how_it_works = await getEntry(lang, "how-it-works", "index");
+const how_it_works = await getEntry("sk", "how-it-works", "index");
 const { perfomance, our_works } = how_it_works.data;
 const page_data = {
   ...how_it_works.data,
