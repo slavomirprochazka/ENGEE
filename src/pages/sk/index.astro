@@ -6,7 +6,7 @@ import Testimonial from "@layouts/components/Testimonial.astro";
 import Service from "@layouts/components/Service.astro";
 import Cta from "@layouts/partials/Cta.astro";
 import { getEntry } from "astro:content";
-import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
 const homepage = await getEntry("homepage", lang, "index");
