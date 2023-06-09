@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "PROSOFT Košice",
-    "base_url": "https://prosoftke.netlify.app",
+    "title": "ENGEE",
+    "base_url": "https://engee.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo_engee_heart.svg",
     "logo_format": "svg",
-    "logo_width": "107",
-    "logo_height": "31",
+    "logo_width": "219",
+    "logo_height": "60",
     "logo_text": "ENGEE"
   },
 
