@@ -15,17 +15,17 @@
       "children": [
         {
           "name": "Slovenština",
-          "url": "/sk"
+          "url": "/"
         },
 
         {
           "name": "Čeština",
-          "url": "/cs"
+          "url": "/"
         },
 
         {
           "name": "English",
-          "url": "/en"
+          "url": "/"
         }
 
       ]
