@@ -33,20 +33,3 @@ export const collections = {
   blog: blogCollection,
   pages: pagesCollection,
 };
-
-export async function getStaticPaths() {
-  const pages = await getCollection('blog')
-
-  const paths = pages.map(page => {
-    const [lang, ...slug] = page.slug.split('/');
-    return { params: { lang, slug: slug.join('/') || undefined }, props: page }
-  })
-
-  return paths;
-}
-
-const { lang, slug } = Astro.params;
-const page = Astro.props;
-const formattedDate = page.data.date.toLocaleString(lang);
-
-const { Content } = await page.render();
