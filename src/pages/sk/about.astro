@@ -10,7 +10,7 @@ import { getEntry } from "astro:content";
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
-const about = await getEntry(lang, "about", "index");
+const about = await getEntry("sk", "about", "index");
 const { counter, gallery, features, members } = about.data;
 const page_data = {
   ...about.data,
