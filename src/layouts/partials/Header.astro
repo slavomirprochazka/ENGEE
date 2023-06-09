@@ -17,7 +17,7 @@ export interface NavigationLink {
 const { main }: { main: NavigationLink[] } = menu;
 const { pathname } = Astro.url;
 
-const langbasepath = "/sk";
+const langbasepath = {lang};
 ---
 
 <header class="header">
