@@ -1,6 +1,6 @@
 ---
 title: "About"
-page_title: "About our company"
+page_title: "Charakteristika systému"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"

@@ -7,8 +7,10 @@ import OurMembers from "@components/about/OurMembers.astro";
 import Works from "@components/about/Works.astro";
 import Base from "@layouts/Base.astro";
 import { getEntry } from "astro:content";
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
-const about = await getEntry("about", "index");
+const lang = getLangFromUrl(Astro.url);
+const about = await getEntry(lang, "about", "index");
 const { counter, gallery, features, members } = about.data;
 const page_data = {
   ...about.data,
