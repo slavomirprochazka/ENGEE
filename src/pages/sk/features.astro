@@ -4,9 +4,11 @@ import ProjecManagement from "@components/features/ProjecManagement.astro";
 import Shape from "@components/Shape.astro";
 import Base from "@layouts/Base.astro";
 import Cta from "@layouts/partials/Cta.astro";
-import { getEntryBySlug } from "astro:content";
+import { getEntry } from "astro:content";
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
-const features = await getEntryBySlug("features", "index");
+const lang = getLangFromUrl(Astro.url);
+const features = await getEntry(lang, "features", "index");
 ---
 
 <Base

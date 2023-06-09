@@ -3,9 +3,11 @@ import { Image } from "@astrojs/image/components";
 import PageHeader from "@components/PageHeader.astro";
 import config from "@config/config.json";
 import Base from "@layouts/Base.astro";
-import { getEntryBySlug } from "astro:content";
+import { getEntry } from "astro:content";
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
-const entry = await getEntryBySlug("contact", "index");
+const lang = getLangFromUrl(Astro.url);
+const entry = await getEntry(lang, "contact", "index");
 const { contact_form_action } = config.params;
 const contact = entry.data;
 const page_data = {
