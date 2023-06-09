@@ -4,12 +4,10 @@ import PageHeader from "@components/PageHeader.astro";
 import Shape from "@components/Shape.astro";
 import Base from "@layouts/Base.astro";
 import Cta from "@layouts/partials/Cta.astro";
-import { getEntry } from "astro:content";
+import { getEntryBySlug } from "astro:content";
 import { AiFillCheckCircle } from "react-icons/ai/index.js";
-import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
-const lang = getLangFromUrl(Astro.url);
-const how_it_works = await getEntry("sk", "how-it-works", "index");
+const how_it_works = await getEntryBySlug("how-it-works", "index");
 const { perfomance, our_works } = how_it_works.data;
 const page_data = {
   ...how_it_works.data,
