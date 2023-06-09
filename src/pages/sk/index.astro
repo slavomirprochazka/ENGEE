@@ -7,7 +7,7 @@ import Service from "@layouts/components/Service.astro";
 import Cta from "@layouts/partials/Cta.astro";
 import { getEntry } from "astro:content";
 
-const homepage = await getEntry("homepage", "index");
+const homepage = await getEntry("homepage", "sk", "index");
 const { banner, key_features, service, testimonial } = homepage.data;
 ---
 
