@@ -1,10 +1,10 @@
 ---
 banner:
   title: "Medicínsky informačný systém novej generácie"
-  content: "25 rokov skúseností s vývojom informačných systémov pre nemocnice a ambulancie"
+  content: "---"
   image: /images/banner-screens.png
   button:
-    label: Test
+    label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
