@@ -9,18 +9,23 @@
       "url": "/about"
     },
     {
-      "name": "Řešení",
+      "name": "Jazyk",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "ENGEE",
-          "url": "/engee"
+          "name": "Slovenština",
+          "url": "/sk"
         },
 
         {
-          "name": "PROMIS",
-          "url": "/promis"
+          "name": "Čeština",
+          "url": "/cs"
+        },
+
+        {
+          "name": "English",
+          "url": "/en"
         }
 
       ]
