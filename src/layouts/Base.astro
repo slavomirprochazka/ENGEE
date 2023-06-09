@@ -30,10 +30,6 @@ export interface Props {
 const { title, meta_title, description, image, noindex, canonical } =
   Astro.props;
 
-// current language
-import { getLangFromUrl } from '../i18n/utils';
-
-const lang = getLangFromUrl(Astro.url);
 ---
 
 <!DOCTYPE html>
