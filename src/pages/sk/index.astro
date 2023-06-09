@@ -9,7 +9,7 @@ import { getEntry } from "astro:content";
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
-const homepage = await getEntry("homepage", lang, "index");
+const homepage = await getEntry(lang, "homepage", "index");
 const { banner, key_features, service, testimonial } = homepage.data;
 ---
 
