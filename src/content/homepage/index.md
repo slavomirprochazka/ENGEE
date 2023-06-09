@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "25 let zkušeností s vývojem informačních systémů pro zdravotnictví"
-  content: "Moderní informační systém pro nemocnice a pro ambulance."
+  title: "Medicínsky informačný systém novej generácie"
+  content: "25 rokov skúseností s vývojom informačných systémov pre pre nemocnice a ambulancie"
   image: /images/banner-img.png
   button:
     label: Download The Theme
