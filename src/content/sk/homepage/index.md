@@ -83,11 +83,11 @@ testimonial:
   title: Our customers have nice things to say about us
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   testimonial_list:
-    - author: David Cameron
+    - author: Michal Pokorný
       avatar: "/images/users/user-5.png"
-      organization: meta limited
+      organization: Penta Hospitals
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Nemocničný informačný systém ENGEE je účinný a užitočný nástroj, ktorý zlepšuje organizáciu a tok informácií v nemocnici, prispieva k vyššej kvalite starostlivosti o pacientov a uľahčuje prácu zdravotníckeho personálu.
     - author: David Cameron
       avatar: "/images/users/user-6.png"
       organization: meta limited
