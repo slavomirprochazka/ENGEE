@@ -1,6 +1,7 @@
 ---
 import Logo from "@components/Logo.astro";
 import menu from "@config/menu.json";
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 export interface ChildNavigationLink {
   name: string;
