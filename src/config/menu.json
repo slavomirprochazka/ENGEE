@@ -19,28 +19,6 @@
     {
       "name": "Kontakt",
       "url": "/contact"
-    },
-    {
-      "name": "Jazyk",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Slovenština",
-          "url": "/sk/"
-        },
-
-        {
-          "name": "Čeština",
-          "url": "/cs/"
-        },
-
-        {
-          "name": "English",
-          "url": "/en/"
-        }
-
-      ]
     }
   ],
 
