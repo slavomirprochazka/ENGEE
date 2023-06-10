@@ -9,28 +9,6 @@
       "url": "/about"
     },
     {
-      "name": "Jazyk",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Slovenština",
-          "url": "/"
-        },
-
-        {
-          "name": "Čeština",
-          "url": "/"
-        },
-
-        {
-          "name": "English",
-          "url": "/"
-        }
-
-      ]
-    },
-    {
       "name": "Reference",
       "url": "/references"
     },
@@ -42,6 +20,28 @@
       "name": "Kontakt",
       "url": "/contact"
     }
+    {
+      "name": "Jazyk",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Slovenština",
+          "url": "/sk/"
+        },
+
+        {
+          "name": "Čeština",
+          "url": "/cs/"
+        },
+
+        {
+          "name": "English",
+          "url": "/en/"
+        }
+
+      ]
+    },
   ],
 
   "footer": [
