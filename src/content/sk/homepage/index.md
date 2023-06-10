@@ -131,23 +131,17 @@ testimonial:
 
 ## our works
 features:
-  title: The six core work <br /> drive everything do
+  title: Mission and vision
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Our vision
+      content: Chceme byť prvou a jedinou voľbou Zdravotníckych zariadení
+    - title: Our mission
+      content: Chceme napomáhať zdravotníkom vo zvyšovaní kvality poskytovaných služieb a zároveň vo zvyšovaní rentability Zdravotníckych zariadení
+    - title: Our values
+      content: Ownership, Rešpekt, Spolupráca a spätná väzba
  
 ---
