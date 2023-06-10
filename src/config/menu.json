@@ -19,7 +19,7 @@
     {
       "name": "Kontakt",
       "url": "/contact"
-    }
+    },
     {
       "name": "Jazyk",
       "url": "",
@@ -41,7 +41,7 @@
         }
 
       ]
-    },
+    }
   ],
 
   "footer": [
