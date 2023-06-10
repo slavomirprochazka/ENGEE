@@ -25,19 +25,19 @@ features:
       
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Moderné technológie"
+  description: Systém je stavaný pomocou technológií, ktoré sú overené, škálovateľné a otvorené.
   feature_list:
-    - icon: "activity"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "package"  #icon package react-feather-icon [https://feathericons.com/]
       title: openEHR
       content: Klinický model a dokumentace
-    - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Camunda
+    - icon: "activity"  #icon package react-feather-icon [https://feathericons.com/]
+      title: camunda
       content: Tvorba a kontrola jednotlivých procesů
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "send"  #icon package react-feather-icon [https://feathericons.com/]
       title: kafka
       content: Messaging system – Asynchronní zpracování
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+    - icon: "aperture"  #icon package react-feather-icon [https://feathericons.com/]
       title: kubernetes
       content: Aplikační kontrola
 
