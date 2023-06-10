@@ -8,41 +8,38 @@ banner:
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
+## our works
+features:
+  title: Mission and vision
+  button:
+    label: Download The Theme
+    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    enable: true
+  features_list:
+    - title: Our vision
+      content: Chceme byť prvou a jedinou voľbou Zdravotníckych zariadení
+    - title: Our mission
+      content: Chceme napomáhať zdravotníkom vo zvyšovaní kvality poskytovaných služieb a zároveň vo zvyšovaní rentability Zdravotníckych zariadení
+    - title: Our values
+      content: Ownership, Rešpekt, Spolupráca a spätná väzba
+      
 ##key features
 key_features:
   title: "The Highlighting Part Of Our Solution"
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
   feature_list:
     - icon: "activity"  #icon package react-feather-icon [https://feathericons.com/]
-      title: ENGEE
-      content: next-get hospital information system.
+      title: openEHR
+      content: Klinický model a dokumentace
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Camunda
+      content: Tvorba a kontrola jednotlivých procesů
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: kafka
+      content: Messaging system – Asynchronní zpracování
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: kubernetes
+      content: Aplikační kontrola
 
 #service
 service:
@@ -129,19 +126,5 @@ testimonial:
       rating: five
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
 
-## our works
-features:
-  title: Mission and vision
-  button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
-  features_list:
-    - title: Our vision
-      content: Chceme byť prvou a jedinou voľbou Zdravotníckych zariadení
-    - title: Our mission
-      content: Chceme napomáhať zdravotníkom vo zvyšovaní kvality poskytovaných služieb a zároveň vo zvyšovaní rentability Zdravotníckych zariadení
-    - title: Our values
-      content: Ownership, Rešpekt, Spolupráca a spätná väzba
  
 ---
