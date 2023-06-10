@@ -1,6 +1,8 @@
 ---
 import { languages } from '../../i18n/ui';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 const { pathname } = Astro.url;
+const lang = getLangFromUrl(Astro.url);
 ---
 <li class="nav-item nav-dropdown group relative cursor-pointer" id="dropdown-button">
 <span class={`nav-link inline-flex items-center`}>
