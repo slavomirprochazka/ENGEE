@@ -17,7 +17,8 @@ export interface NavigationLink {
 const { main }: { main: NavigationLink[] } = menu;
 const { pathname } = Astro.url;
 
-const langbasepath = {lang};
+const lang = getLangFromUrl(Astro.url);
+const langbasepath = "/"+lang;
 ---
 
 <header class="header">
