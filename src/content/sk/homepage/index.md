@@ -128,4 +128,26 @@ testimonial:
       organization: meta limited
       rating: five
       content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+
+## our works
+features:
+  title: The six core work <br /> drive everything do
+  button:
+    label: Download The Theme
+    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    enable: true
+  features_list:
+    - title: Accessibility
+      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Empowerement
+      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Excellence
+      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Innovation
+      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Innovation
+      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Innovation
+      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+ 
 ---
