@@ -61,6 +61,7 @@ service:
     - title: Vývoj funkcionalít
       description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
       image: "/images/tree_engee.svg"
+      image-format: "svg"
       list:
         - Supporting more than 119 country world
         - Open transaction with more than currencies
