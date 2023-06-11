@@ -45,7 +45,7 @@ key_features:
 service:
   homepage_tab:
     title: Základy
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    description: 
     tab_list:
         - title: Cloud/Warehouse
           description: Riešenie je vybudované ako cloudová služba, čo ho umožní efektívne prevádzkovať, zjednodušiť jeho škálovanie a urýchli nasadzovanie nových funkcionalít a zmien. Zároveň riešenie podporuje  zdieľanie údajov o pacientoch medzi jednotlivými nemocničnými zariadeniami s cieľom odbremeniť zdravotný personál od zdĺhavej evidencie údajov z papierových podkladov, pričom bude rešpektovať bezpečnostné a legislatívne predpisy. 
