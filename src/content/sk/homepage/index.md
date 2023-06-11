@@ -50,23 +50,18 @@ service:
         - title: Cloud/Warehouse
           description: Riešenie je vybudované ako cloudová služba, čo ho umožní efektívne prevádzkovať, zjednodušiť jeho škálovanie a urýchli nasadzovanie nových funkcionalít a zmien. Zároveň riešenie podporuje  zdieľanie údajov o pacientoch medzi jednotlivými nemocničnými zariadeniami s cieľom odbremeniť zdravotný personál od zdĺhavej evidencie údajov z papierových podkladov, pričom bude rešpektovať bezpečnostné a legislatívne predpisy. 
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
         - title: Bezpečnosť
           description: Medicínska ako aj technologická. Medicínsku zabezpečujú jasné a prehľadné procesy týkajúce sa identifikácie, preskripcie, podávania liekov, klinickej dokumentácie. Technickú bezpečnosť zabezpečuje technológia budovaná s ohľadom na kritickosť a citlivosť spracovávaných údajov a zabezpečí maximálnu dostupnosť riešenia, nadštandardnú ochranu pred výpadkami a únikom údajov na všetkých úrovniach
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/collaboration.png"
         - title: Efektivita
           description: Riešenie je orientované na pacienta tak, aby v každom momente poskytovania zdravotnej starostlivosti mal zdravotnícky personál k dispozícii aktuálne a dôležité informácie o pacientovi bez nutnosti ich zložitého vyhľadania, pričom zohľadňuje rolu prihláseného používateľa a zobrazovať prednostne tie informácie, ktoré sú v kontexte jeho práce podstatné. Pred vypĺňanie  formulárov na základe definovaných hodnôt a machine learningu urýchľuje a zjednodušuje neustále sa opakujúce úkony. Všetko na jeden klik.
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
         - title: Komfort
           description: Dôraz na používateľa a používateľské prostredie. Moderná technológia a architektúra umožňuje vytvoriť prehľadné a samo vysvetľujúce používateľské prostredie, ktoré zkomfortní každodennú prácu zdravotníckeho personálu.   
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/collaboration.png"
         - title: Skúsenosť
           description: Bohaté skúsenosti teamu sú pretavené do základov NIS novej generácie. Zároveň skúsenosti používateľov pomáhajú NIS neustále vylepšovať. 
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
 
   our_service:
     - title: Vývoj funkcionalít
