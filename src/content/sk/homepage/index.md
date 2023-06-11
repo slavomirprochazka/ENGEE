@@ -1,11 +1,11 @@
 ---
 banner:
   title: "Medicínsky informačný systém novej generácie"
-  content: "25 rokov skúseností s vývojom informačných systémov pre nemocnice a ambulancie"
+  content: "ENGEE je postavený na 25 ročných skúsenostiach v zdravotníckom IT. Tieto skúsenosti sa pretavili do systému s totálnou konfigurovateľnosťou a elastickosťou pre prispôsobenie sa akémukoľvek zdravotnému zariadeniu, jeho procesom a spôsobom tvorby a evidencie klinickej dokumentácie. Zabezpečuje maximálnu bezpečnosť, efektivitu a komfort pacientom, zdravotníckym pracovníkom a manažérom. NGHIS poskytuje všetky potrebné prehľady a reporty pre neustále zlepšovanie a zefektívnenie poskytovanej zdravotnej starostlivosti. Je moderný, komplexný, integrovaný a nadčasový."
   image: /images/banner-screen.png
   button:
-    label: Test
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: DEMO
+    link: "https://test.nghis.prosoftke.sk"
     enable: true
 
 ## our works
@@ -14,7 +14,7 @@ features:
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    enable: false
   features_list:
     - title: Our vision
       content: Chceme byť prvou a jedinou voľbou zdravotníckych zariadení
