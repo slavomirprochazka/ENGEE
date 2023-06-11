@@ -65,22 +65,16 @@ service:
 
   our_service:
     - title: Funkcionality
-      description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+      description: Systém plne podporuje tvorbu klinickej dokumentácie, plánovania a správy zdrojov. Systém je otvorený a je možné ho ďalej rozširovať napojením personálnych, účtovných, manažérskych a ďalších podporných systémov.
       image: "/images/tree_engee.svg"
       image_format: "svg"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
-      video:
-        thumbnail: "/images/collaboration.png"
-        video_id: "g3-VxLQO7do"
-      button:
-        label: Know About Us
-        link: "#"
-        enable: true
+        - legislatíva
+        - multijazyčnosť
+        - prepojiteľnosť
+    - title: Rentabilita
+      description: Základy a piliere NGHIS vyusťujú do maximálnej a širokospektrálnej rentability. Táto rentabilita sa odzrkadľuje jednak na ekonomických ukazovateľoch ako aj na zvyšovaní kvality služieb a v neposlednom rade na spokojnosti všetkých účastníkov procesu zdravotnej starostlivosti. Samozrejmosťou sú automatizované presné evidencie spotrebovaných liečiv, materiálu a pomôcok. Výrazná pomoc AI pri výkazníctve, napomáha pri zefektívnení platieb za zdravotnú starostlivosť. Plánovanie zvyšuje mieru vyťaženosti zariadenia a znižuje priame náklady.
+      image: "/images/investment.jpg"
 
 #testimonial
 testimonial:
