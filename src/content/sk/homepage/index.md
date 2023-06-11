@@ -17,11 +17,11 @@ features:
     enable: true
   features_list:
     - title: Our vision
-      content: Chceme byť prvou a jedinou voľbou Zdravotníckych zariadení
+      content: Chceme byť prvou a jedinou voľbou zdravotníckych zariadení
     - title: Our mission
-      content: Chceme napomáhať zdravotníkom vo zvyšovaní kvality poskytovaných služieb a zároveň vo zvyšovaní rentability Zdravotníckych zariadení
+      content: Chceme napomáhať zdravotníkom vo zvyšovaní kvality poskytovaných služieb a zároveň vo zvyšovaní rentability zdravotníckych zariadení
     - title: Our values
-      content: Ownership, Rešpekt, Spolupráca a spätná väzba
+      content: Ownership, rešpekt, spolupráca a spätná väzba
       
 ##key features
 key_features:
@@ -64,7 +64,7 @@ service:
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
 
   our_service:
-    - title: Vývoj funkcionalít
+    - title: Funkcionality
       description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
       image: "/images/tree_engee.svg"
       image_format: "svg"
@@ -84,54 +84,34 @@ service:
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: Čo o nás hovoria naši klienti
+  description: Vybrané recenzie s hodnotením našej práce od našich klientov.
   testimonial_list:
     - author: Michal Pokorný
       avatar: "/images/users/user-5.png"
       organization: Penta Hospitals
       rating: four
       content: Nemocničný informačný systém ENGEE je účinný a užitočný nástroj, ktorý zlepšuje organizáciu a tok informácií v nemocnici, prispieva k vyššej kvalite starostlivosti o pacientov a uľahčuje prácu zdravotníckeho personálu.
-    - author: David Cameron
+    - author: David Kramár
       avatar: "/images/users/user-6.png"
-      organization: meta limited
+      organization: Nemocnica s poliklinikou Trebišov, a.s.
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Chcel by som vyjadriť úprimnú vďaku za informačný systém, ktorý účinne riadi centrálnu prípravovňu liekov.
+    - author: Ján Varga
       avatar: "/images/users/user-2.png"
-      organization: meta limited
+      organization: NEMOCNICA TOPOĽČANY
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Spolupráca pracovníkov spoločnosti PROSOFT Košice je vynikajúca vďaka ich pozitívnemu a ústretovému prístupu.
+    - author: Patrik Novák
       avatar: "/images/users/user-3.png"
-      organization: meta limited
+      organization: Nemocnica s poliklinikou Trebišov, a.s.
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: Chcel by som vyjadriť úprimnú vďaku za informačný systém, ktorý výrazne prispieva k plynulosti a efektivite našej každodennej práce.
+    - author: Tomáš Kováč
       avatar: "/images/users/user-4.png"
-      organization: meta limited
+      organization: Penta Hospitals
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-1.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Pracovníci společnosti PROSOFT Košice excelují svým profesionálním přístupem a vstřícností v rámci spolupráce.
 
  
 ---

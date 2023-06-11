@@ -19,10 +19,10 @@
   },
 
   "call_to_action": {
-    "title": "Pomáháme chránit",
-    "description": "Pomáháme zefektnit činnosti zdravotnických zařízení a zjednodušit práci jejich zaměstnancům.",
+    "title": "Tvorca aplikácie",
+    "description": "Autorom medicínskeho informačného systému je PROSOFT Košice, a.s.",
     "button": {
-      "label": "Původní prezentace",
+      "label": "PROSOFT Košice, a.s.",
       "link": "http://www.promis.sk/"
     }
   },
@@ -34,7 +34,7 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "footer_description": "next-gen hospital information system",
     "email": "prosoft@prosoftke.sk",
     "location": "Letná 27, 040 01 Košice",
     "phone": "+421 55 799 6451, +421 55 799 6452",
