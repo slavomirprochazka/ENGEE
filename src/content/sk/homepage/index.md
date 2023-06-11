@@ -44,16 +44,23 @@ key_features:
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
+    title: Základy
     description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
     tab_list:
-        - title: Habit building essential choose habit
+        - title: Cloud/Warehouse
+          description: riešenie je vybudované ako cloudová služba, čo ho umožní efektívne prevádzkovať, zjednodušiť jeho škálovanie a urýchli nasadzovanie nových funkcionalít a zmien. Zároveň riešenie podporuje  zdieľanie údajov o pacientoch medzi jednotlivými nemocničnými zariadeniami s cieľom odbremeniť zdravotný personál od zdĺhavej evidencie údajov z papierových podkladov, pričom bude rešpektovať bezpečnostné a legislatívne predpisy. 
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
+        - title: Bezpečnosť
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
+        - title: Efektivita
+          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+          image: "/images/sells-by-country.png"
+        - title: Komfort
+          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+          image: "/images/collaboration.png"
+        - title: Skúsenosť
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
