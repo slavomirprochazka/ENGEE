@@ -14,10 +14,6 @@
     },
     {
       "name": "Technologie",
-      "url": "/technology"
-    },
-    {
-      "name": "Technologie",
       "url": "",
       "hasChildren": true,
       "children": [

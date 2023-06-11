@@ -90,12 +90,12 @@ testimonial:
     - author: David Kramár
       avatar: "/images/users/user-6.png"
       organization: Nemocnica s poliklinikou Trebišov, a.s.
-      rating: four
+      rating: five
       content: Chcel by som vyjadriť úprimnú vďaku za informačný systém, ktorý účinne riadi centrálnu prípravovňu liekov.
     - author: Ján Varga
       avatar: "/images/users/user-2.png"
       organization: NEMOCNICA TOPOĽČANY
-      rating: three
+      rating: five
       content: Spolupráca pracovníkov spoločnosti PROSOFT Košice je vynikajúca vďaka ich pozitívnemu a ústretovému prístupu.
     - author: Patrik Novák
       avatar: "/images/users/user-3.png"
