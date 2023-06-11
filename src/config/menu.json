@@ -17,6 +17,30 @@
       "url": "/technology"
     },
     {
+      "name": "Technologie",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "openEHR",
+          "url": "/openehr"
+        },
+        {
+          "name": "camunda",
+          "url": "/camunda"
+        },
+        {
+          "name": "kafka",
+          "url": "/kafka"
+        },
+        {
+          "name": "kubernetes",
+          "url": "/kubernetes"
+        }
+
+      ]
+    },
+    {
       "name": "Kontakt",
       "url": "/contact"
     }
@@ -30,10 +54,6 @@
     {
       "name": "Kontakt",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     },
     {
       "name": "Changelog",

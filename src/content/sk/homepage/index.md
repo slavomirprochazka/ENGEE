@@ -74,7 +74,8 @@ service:
         - prepojiteľnosť
     - title: Rentabilita
       description: Základy a piliere NGHIS vyusťujú do maximálnej a širokospektrálnej rentability. Táto rentabilita sa odzrkadľuje jednak na ekonomických ukazovateľoch ako aj na zvyšovaní kvality služieb a v neposlednom rade na spokojnosti všetkých účastníkov procesu zdravotnej starostlivosti. Samozrejmosťou sú automatizované presné evidencie spotrebovaných liečiv, materiálu a pomôcok. Výrazná pomoc AI pri výkazníctve, napomáha pri zefektívnení platieb za zdravotnú starostlivosť. Plánovanie zvyšuje mieru vyťaženosti zariadenia a znižuje priame náklady.
-      image: "/images/investment.jpg"
+      image: "/images/investment.svg"
+      image_format: "svg"
 
 #testimonial
 testimonial:
