@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Medicínsky informačný systém novej generácie"
-  content: "ENGEE je postavený na 25 ročných skúsenostiach v zdravotníckom IT. Tieto skúsenosti sa pretavili do systému s totálnou konfigurovateľnosťou a elastickosťou pre prispôsobenie sa akémukoľvek zdravotnému zariadeniu, jeho procesom a spôsobom tvorby a evidencie klinickej dokumentácie. Zabezpečuje maximálnu bezpečnosť, efektivitu a komfort pacientom, zdravotníckym pracovníkom a manažérom. NGHIS poskytuje všetky potrebné prehľady a reporty pre neustále zlepšovanie a zefektívnenie poskytovanej zdravotnej starostlivosti. Je moderný, komplexný, integrovaný a nadčasový."
+  content: "ENGEE je postavený na 25 ročných skúsenostiach v zdravotníckom IT. Tieto skúsenosti sa pretavili do systému s totálnou konfigurovateľnosťou a elastickosťou pre prispôsobenie sa akémukoľvek zdravotnému zariadeniu, jeho procesom a spôsobom tvorby a evidencie klinickej dokumentácie. Zabezpečuje maximálnu bezpečnosť, efektivitu a komfort pacientom, zdravotníckym pracovníkom a manažérom. Poskytuje všetky potrebné prehľady a reporty pre neustále zlepšovanie a zefektívnenie poskytovanej zdravotnej starostlivosti. Je moderný, komplexný, integrovaný a nadčasový."
   image: /images/banner-screen.png
   button:
     label: DEMO
@@ -73,7 +73,7 @@ service:
         - multijazyčnosť
         - prepojiteľnosť
     - title: Rentabilita
-      description: Základy a piliere NGHIS vyusťujú do maximálnej a širokospektrálnej rentability. Táto rentabilita sa odzrkadľuje jednak na ekonomických ukazovateľoch ako aj na zvyšovaní kvality služieb a v neposlednom rade na spokojnosti všetkých účastníkov procesu zdravotnej starostlivosti. Samozrejmosťou sú automatizované presné evidencie spotrebovaných liečiv, materiálu a pomôcok. Výrazná pomoc AI pri výkazníctve, napomáha pri zefektívnení platieb za zdravotnú starostlivosť. Plánovanie zvyšuje mieru vyťaženosti zariadenia a znižuje priame náklady.
+      description: Základy a piliere ENGEE vyusťujú do maximálnej a širokospektrálnej rentability. Táto rentabilita sa odzrkadľuje jednak na ekonomických ukazovateľoch ako aj na zvyšovaní kvality služieb a v neposlednom rade na spokojnosti všetkých účastníkov procesu zdravotnej starostlivosti. Samozrejmosťou sú automatizované presné evidencie spotrebovaných liečiv, materiálu a pomôcok. Výrazná pomoc AI pri výkazníctve, napomáha pri zefektívnení platieb za zdravotnú starostlivosť. Plánovanie zvyšuje mieru vyťaženosti zariadenia a znižuje priame náklady.
       image: "/images/investment.svg"
       image_format: "svg"
 
