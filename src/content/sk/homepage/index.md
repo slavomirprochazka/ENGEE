@@ -60,6 +60,20 @@ basics:
           description: Procesnosťou, Konfigurovateľnosťou a Štrukturovateľnosťou je zabezpečená absolútna flexibilita NIS. V praxi to znamená, že NGHIS je prispôsobený potrebám, ako malej ambulancie, tak až po univerzitnú nemocnicu tým, že sa dokáže do najmenších detailov prispôsobiť ich potrebám.
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
 
+  our_service:
+    - title: Funkcionality
+      description: Systém plne podporuje tvorbu klinickej dokumentácie, plánovania a správy zdrojov. Systém je otvorený a je možné ho ďalej rozširovať napojením personálnych, účtovných, manažérskych a ďalších podporných systémov.
+      image: "/images/tree_engee.svg"
+      image_format: "svg"
+      list:
+        - legislatíva
+        - multijazyčnosť
+        - prepojiteľnosť
+    - title: Rentabilita
+      description: Základy a piliere ENGEE vyusťujú do maximálnej a širokospektrálnej rentability. Táto rentabilita sa odzrkadľuje jednak na ekonomických ukazovateľoch ako aj na zvyšovaní kvality služieb a v neposlednom rade na spokojnosti všetkých účastníkov procesu zdravotnej starostlivosti. Samozrejmosťou sú automatizované presné evidencie spotrebovaných liečiv, materiálu a pomôcok. Výrazná pomoc AI pri výkazníctve, napomáha pri zefektívnení platieb za zdravotnú starostlivosť. Plánovanie zvyšuje mieru vyťaženosti zariadenia a znižuje priame náklady.
+      image: "/images/investment.svg"
+      image_format: "svg"
+
 #service
 service:
   homepage_tab:
