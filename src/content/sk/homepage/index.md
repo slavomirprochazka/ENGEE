@@ -41,6 +41,25 @@ key_features:
       title: kubernetes
       content: Aplikační kontrola
 
+#basics
+basics:
+  homepage_tab:
+    title: Pilere
+    description: 
+    tab_list:
+        - title: Procesnosť
+          description: riešenie je koncipované ako procesný nástroj, s pomocou ktorého možno riadiť pracovný tok, sledovať efektivitu jednotlivých procesov, vyťaženosť zdrojov a konfiguráciou priebežne optimalizovať pracovné postupy. 
+          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Konfigurovateľnosť
+          description: riešenie je budované s ohľadom na jeho plánované nasadenie vo viacerých krajinách. Preto bude na úrovni administratívnych postupov, zdravotných údajov, používateľského rozhrania možnosť jeho konfigurácie tak, ako to vyžadujú predpisy a postupy jednotlivých krajín, či nemocníc. Samozrejmosťou bude možnosť jeho prípadného rozšírenia, vrátane podpory viacerých jazykových mutácií. 
+          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Štrukturované údaje
+          description: riešenie používa zaužívané a štandardizované údajové štruktúry (OpenEHR, HL7, FHIR, štátne normy). Celá klinická aj neklinická dokumentácia je postavená na štandarde OpenEHR, ktorý vo svojom základe určuje najelementárnejšie archetypy klinických záznamov a umožňuje modulárne skladať tieto archetypy do celkov - šablón. Tým umožňuje vysokú variabilitu evidencie štrukturovaných záznamov.
+          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Flexibilita
+          description: Procesnosťou, Konfigurovateľnosťou a Štrukturovateľnosťou je zabezpečená absolútna flexibilita NIS. V praxi to znamená, že NGHIS je prispôsobený potrebám, ako malej ambulancie, tak až po univerzitnú nemocnicu tým, že sa dokáže do najmenších detailov prispôsobiť ich potrebám.
+          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+
 #service
 service:
   homepage_tab:
